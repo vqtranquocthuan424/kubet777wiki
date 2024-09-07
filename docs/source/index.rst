@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+KUBET777 - kubet777.wiki - Thương Hiệu Cá Cược Trực Tuyến Tại Châu Á và Châu Âu
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`KUBET777 <https://kubet777.wiki/>`_ là thương hiệu hàng đầu trong lĩnh vực cá cược trực tuyến, nổi bật tại Việt Nam và nhiều khu vực khác. Với giao diện đẹp, tốc độ tải nhanh, dịch vụ chăm sóc khách hàng chất lượng, KUBET777 đáp ứng tốt nhu cầu người chơi. KUBET777 cung cấp đa dạng sản phẩm cá cược và cam kết bảo mật thông tin, giao dịch minh bạch, cùng nhiều chương trình khuyến mãi hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 339 Liên ấp 2 - 6, Vĩnh Lộc A, Bình Chánh, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0926336214. 
 
-Contents
---------
+Email: info@kubet777.wiki. 
 
-.. toctree::
+Website: https://kubet777.wiki/
 
-   usage
-   api
+#kubet777 #nhacaikubet777 #trangchukubet777 #dangkykubet777 #linkkubet777
